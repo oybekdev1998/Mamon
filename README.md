@@ -1,0 +1,2 @@
+# Mamon
+New landing page
